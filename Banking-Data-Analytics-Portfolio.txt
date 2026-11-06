@@ -1,0 +1,105 @@
+# Banking Data Analytics Portfolio
+
+## Project Overview
+
+The Banking Data Analytics Portfolio is a collaborative group project developed as part of the Data Analytics training program at ExcelR, Marathahalli, Bangalore.
+
+This portfolio consists of two banking analytics projects designed to transform raw banking data into meaningful business insights through SQL analysis, data preparation, KPI development, and interactive dashboard visualization.
+
+The projects cover two important areas of banking operations:
+
+1. **Banking Loan Analytics:** Analyzing loan disbursement, funded amounts, repayment performance, customer distribution, product performance, and branch-level operations.
+
+2. **Debit & Credit Banking Transaction Analytics:** Analyzing transaction volumes, credit and debit activities, customer transactions, bank performance, branch performance, and transaction methods.
+
+Both projects were implemented using SQL, Microsoft Excel, Power BI, and Tableau to explore different approaches to data analysis and business intelligence.
+
+## Projects Included
+
+### 1. Banking Loan Analytics Dashboard
+
+**Objective:** Analyze banking loan operations and evaluate loan performance, repayment trends, customer activity, and branch performance.
+
+**Key Analysis:**
+- Total Loan Accounts
+- Total Loan Amount
+- Total Funded Amount
+- Average Loan Amount
+- Loan Status Distribution
+- Loan Default Rate
+- Delinquency Rate
+- Repayment Collection Summary
+- Product Purpose and Interest Rate Analysis
+- Branch Performance and Default Risk
+- Average Interest Rate
+
+**Database:** MySQL
+
+**Data Model:** Fact Loan, Fact Repayment, Dim Client, Dim Product, and Dim Branch.
+
+### 2. Debit & Credit Banking Transaction Dashboard
+
+**Objective:** Understand banking transaction patterns and compare credit and debit performance across banks, branches, and transaction methods.
+
+**Key Analysis:**
+- Total Transactions
+- Unique Customers
+- Total Transaction Value
+- Average Transaction Value
+- Credit vs Debit Analysis
+- Net Credit-Debit Difference
+- Bank-wise Transaction Performance
+- Branch-wise Transaction Performance
+- Transaction Method Analysis
+- Monthly Transaction Trends
+
+**Database:** MySQL
+
+**Data Validation:** Expected imported transaction records – 100,000.
+
+## Tools & Technologies
+
+| Tool | Application |
+|---|---|
+| MySQL | SQL queries, data validation, aggregations, joins, and KPI calculations |
+| Microsoft Excel | Data analysis, PivotTables, KPI calculations, interactive dashboards, and slicers |
+| Power BI | Data modeling, DAX measures, interactive reports, and visualization |
+| Tableau | Data visualization, analytical dashboards, and interactive reporting |
+
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+- SQL Query Writing
+- Data Validation
+- Data Aggregation and Analysis
+- KPI Development
+- Data Modeling
+- Business Intelligence
+- Data Visualization
+- Interactive Dashboard Development
+- Business Performance Analysis
+- Analytical Reporting
+
+## Project Structure
+
+The repository contains separate folders for both banking projects, with tool-wise implementations and supporting documentation.
+
+## Project Outcome
+
+These projects provided practical experience in working with banking datasets, extracting meaningful insights using SQL, developing business performance indicators, and presenting analytical results through interactive dashboards.
+
+Developing the same business analysis using multiple analytics tools also provided an opportunity to understand different data visualization approaches and reporting capabilities.
+
+## Collaboration & Training
+
+Developed collaboratively as part of the Data Analytics training program at **ExcelR, Marathahalli, Bangalore**.
+
+This project represents practical group learning, analytical problem-solving, teamwork, and hands-on application of data analytics concepts.
+
+---
+
+**Domain:** Banking & Financial Analytics
+
+**Technologies:** SQL | Microsoft Excel | Power BI | Tableau
+
+**Project Type:** Collaborative Group Project
